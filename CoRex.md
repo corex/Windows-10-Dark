@@ -13,3 +13,6 @@ Since I am using XFCE4 I have changed the border color for the active windows, s
 - Border #596eb5 - a light blue color.
 
 All files under /xfwm4 that has the color #141414 and ends in "-active", "-prelight" and "-pressed", has been updated with the new color code.
+
+## Build
+To builde tar file, simply run build.sh and it will create a suffixed with "-CoRex".
