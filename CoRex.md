@@ -7,12 +7,10 @@ It is not the themes fault itself and the author made an excellent work to match
 I have some wishes so I made changes that tries to solve this.
 
 ## Borders
-Since I am using XFCE4 I have changed the border color for the active windows, so it os easier to focus on the active window.
+- I have changed the border color for the active window, so it os easier to spot.
 
 ## Colors
 - Border #596eb5 - a light blue color.
 
-All files under /xfwm4 that has the color #141414 and ends in "-active", "-prelight" and "-pressed", has been updated with the new color code.
-
 ## Build
-To builde tar file, simply run build.sh and it will create a suffixed with "-CoRex".
+To build, simply run build.sh and it will create a tar file in parent directory suffixed with "-CoRex".

@@ -15,7 +15,7 @@
 
 <constant name="C_wm_bg_focused" value="#1f1f1f" />
 <constant name="C_wm_bg_unfocused" value="#1f1f1f" />
-<constant name="C_wm_border" value="#141414" />
+<constant name="C_wm_border" value="#596eb5" />
 <constant name="C_wm_border_unfocused" value="#232323" />
 <constant name="C_wm_highlight" value="rgba(0,0,0,0)" />
 
