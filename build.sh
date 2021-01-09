@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 SYSDIR=$(dirname $(readlink -f $0))
 echo "($SYSDIR)"
